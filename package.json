@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "rxjs": "^7.5.7"
+  },
+  "scripts": {
+    "test1": "node combain.jsx",
+    "test2": "node concat.jsx",
+    "test3": "node filter.jsx",
+    "test4": "node forEach.jsx",
+    "test5": "node advancedFlattening.js"
+  }
+}
